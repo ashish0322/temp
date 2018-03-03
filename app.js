@@ -1,1 +1,3 @@
-console.log('From App.js');
+function setInterval(function(){
+  console.log('From App.js');
+},1000);
